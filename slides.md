@@ -26,9 +26,5 @@ const id = uuid() // => "52e6953d-edbe-4953-be2e-65ed3836b2f0"
 - ほとんどのユースケースで v4 が使われているから (89.5%)
 - 2位以下は v1 (9.7%), v5 (0.8%), v3 (0.1%)
 ---
-class: middle
-- 個人的にはいらない機能
-- Champion: Ben Coe さんにはもっと別なことをやって欲しい
----
 class: middle, center
 Fin
